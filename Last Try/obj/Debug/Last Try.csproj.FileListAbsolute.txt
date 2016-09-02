@@ -1,0 +1,9 @@
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\bin\Debug\Last Try.exe.config
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\bin\Debug\Last Try.exe
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\bin\Debug\Last Try.pdb
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\obj\Debug\Last Try.csprojResolveAssemblyReference.cache
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\obj\Debug\Last_Try.Form1.resources
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\obj\Debug\Last_Try.Properties.Resources.resources
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\obj\Debug\Last Try.csproj.GenerateResource.Cache
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\obj\Debug\Last Try.exe
+c:\users\15heitc\documents\visual studio 2015\Projects\Last Try\Last Try\obj\Debug\Last Try.pdb
